@@ -1,0 +1,94 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body img.fundo {
+  position: absolute;
+  inset: 0; 
+  height: 100%;
+  opacity: 0.1;
+  margin-left: 25rem;
+  z-index: -1;
+}
+
+.container {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
+
+main {
+  width: 82rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
+}
+
+button.pause img, button.timer img {
+  width: 48px;
+  height: 48px;
+}
+
+.buttonss {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  margin-top: 1rem;
+  margin-left: 0.6rem;
+}
+
+.linha-1 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3rem;
+  gap: 3rem;
+}
+
+.linha-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+}
+
+.card {
+  width: 14rem;
+  height: 15rem;
+  background-color: #E1E1E6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2.4rem;
+}
+
+.selecao {
+  background-color: #02799D;
+}
+
+.marg{
+  margin-top: 10rem;
+}
+
+p {
+  font-weight: 500;
+  font-size: 13rem;
+  font-family: 'Roboto', sans-serif;
+  color: #323238;
+}
