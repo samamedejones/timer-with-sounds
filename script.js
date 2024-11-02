@@ -17,8 +17,8 @@ const buttonNuvem = document.querySelector('button.nuvem')
 const buttonMute = document.querySelector('button.mute')
 const buttonFogo = document.querySelector('button.fogo')
 const audioA = document.querySelector('audio')
-const buttonAumentar = document.querySelector('button.aumentar')   
-const buttonDiminuir = document.querySelector('button.diminuir')
+const buttonAumentar = document.querySelector('button.increase')   
+const buttonDiminuir = document.querySelector('button.decrease')
 
 
 let minutes = Number(displayMinute.textContent)
