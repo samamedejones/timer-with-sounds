@@ -9,7 +9,7 @@ A timer for those looking to relax or even study with a comfortable sound in the
 
 In this project I established how to work with more declarative programming, clean code, lots of repetition structure, inclusion of media in the project and if/else. It was a project for beginners but it was quite challenging in terms of logic.
 </br>
-link: 
+link: https://samamedejones.github.io/timer-with-sounds/
 
 
 ## Technologies used
