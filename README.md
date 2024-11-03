@@ -4,11 +4,12 @@
 
 
 A timer for those looking to relax or even study with a comfortable sound in the background, it includes play, pause, stop and time adjustment buttons, unique buttons for each type of sound theme, such as fireplace, rain and forest, and even a button to change the audio, the project also has buttons to adjust the volume according to your taste!
-## Aprendizados
 
-In this project, the biggest learning was creating keyframes to make animations interactive with the game, and also using the setTimeout function to make everything more fluid and compatible.
-Have fun: 
-https://samamedejones.github.io/rock-paper-scissors./
+## Learnings
+
+In this project I established how to work with more declarative programming, clean code, lots of repetition structure, inclusion of media in the project and if/else. It was a project for beginners but it was quite challenging in terms of logic.
+</br>
+link: 
 
 
 ## Technologies used
